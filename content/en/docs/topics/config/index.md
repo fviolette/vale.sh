@@ -244,6 +244,10 @@ You can use selective, in-text configuration through markup comments in certain
 formats. The follow sections describe the comment style required for each
 supported format.
 
+{{< alert icon="👉" >}}
+Commenting out [script](/docs/topics/styles/#script) rules is not supported.
+{{< /alert >}}
+
 ### Markdown &amp; HTML
 
 Markdown and HTML use HTML-style comments:
